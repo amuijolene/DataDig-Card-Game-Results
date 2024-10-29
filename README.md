@@ -1,4 +1,4 @@
-# Friendly card game results
+# Friendly Card Game Results Analysis
 
 ## Contributors
 1. Peniel Tenkoramah Twum
